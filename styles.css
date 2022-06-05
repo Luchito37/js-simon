@@ -1,0 +1,15 @@
+.contain-random{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.random-number{
+    border: solid 5px red;
+    padding: 10px;
+    color: #860909;
+}
+
+.classeDnone{
+    display: none;
+}
